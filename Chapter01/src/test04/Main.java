@@ -22,6 +22,7 @@ public class Main {
 		result = sol.solution(point[6], point[7]);
 		System.out.println("4 == " + result);
 	
+		// result = sol.solution(new int[] {-7, 9});
 		
 	}
 

@@ -1,5 +1,7 @@
 package test05;
 
+import java.util.Arrays;
+
 public class Main {
 
 	public static void main(String[] args) {
@@ -10,10 +12,10 @@ public class Main {
 		Solution sol = new Solution();
 		
 		result = sol.solution(result);
-		System.out.println("2, 3 == " + result[0] + ", " + result[1]);
+		System.out.println("2, 3 == " + Arrays.toString(result));
 		
 		result2 = sol.solution(result2);
-		System.out.println("0, 4 == " + result2[0] + ", " + result2[1]);
+		System.out.println("0, 4 == " + Arrays.toString(result2));
 
 		for (int i = 0; i < result2.length; i++) {
 			int j = result2[i];
