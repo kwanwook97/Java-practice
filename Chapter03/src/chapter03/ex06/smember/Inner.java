@@ -1,4 +1,4 @@
-package chapter03.ex04.smember;
+package chapter03.ex06.smember;
 
 public class Inner {
 

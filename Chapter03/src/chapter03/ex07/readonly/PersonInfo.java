@@ -1,4 +1,4 @@
-package chapter03.ex05.readonly;
+package chapter03.ex07.readonly;
 
 public class PersonInfo {
 

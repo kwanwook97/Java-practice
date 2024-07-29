@@ -1,4 +1,4 @@
-package chapter03.ex01.start.myapi;
+package chapter03.ex03.myapi;
 
 public class MyapiClass {
 	/**

@@ -1,4 +1,4 @@
-package chapter03.ex01.start.Const;
+package chapter03.ex04.Const;
 
 public class Main {
 

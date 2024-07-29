@@ -1,4 +1,4 @@
-package chapter03.ex03.membercall;
+package chapter03.ex05.membercall;
 
 public class Main {
 

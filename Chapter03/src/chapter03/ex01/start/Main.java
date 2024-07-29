@@ -32,9 +32,6 @@ public class Main {
 			[Java API]
 			API(Application Programming Interface)
 			* 응용 프로그램에서 사용할 수 있도록, 운영체제나 프로그래밍언어가 제공하는 기능을 제어할 수 있게만든 인터페이스.
-			  
-			
-			
 			
 			
 		*/
