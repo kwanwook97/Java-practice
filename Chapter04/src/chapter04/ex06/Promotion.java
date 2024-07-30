@@ -8,9 +8,9 @@ package chapter04.ex06;
 	Duck  Chicken  Dog   Cat
 */
 
-class Vertbrate{} // Ã´Ãßµ¿¹°
-class Birds extends Vertbrate{} // Á¶·ù
-class Mamal extends Vertbrate{} // Æ÷À¯·ù
+class Vertbrate{} // ì²™ì¶”ë™ë¬¼
+class Birds extends Vertbrate{} // ì¡°ë¥˜
+class Mamal extends Vertbrate{} // í¬ìœ ë¥˜
 
 class Duck extends Birds{};
 class Chicken extends Birds{};
@@ -22,16 +22,16 @@ public class Promotion {
 
 	public static void main(String[] args) {
 		
-		// Ã´Ãßµ¿¹°¾È¿¡´Â ¸ğµç µ¿¹°ÀÌ µé¾î°¥ ¼ö ÀÖ´Ù.
-		Vertbrate Ã´Ãßµ¿¹°;
-		Ã´Ãßµ¿¹° = new Dog();
-		Ã´Ãßµ¿¹° = new Cat();
-		Ã´Ãßµ¿¹° = new Chicken();
-		Ã´Ãßµ¿¹° = new Duck();
+		// ì²™ì¶”ë™ë¬¼ì•ˆì—ëŠ” ëª¨ë“  ë™ë¬¼ì´ ë“¤ì–´ê°ˆ ìˆ˜ ìˆë‹¤.
+		Vertbrate ì²™ì¶”ë™ë¬¼;
+		ì²™ì¶”ë™ë¬¼ = new Dog();
+		ì²™ì¶”ë™ë¬¼ = new Cat();
+		ì²™ì¶”ë™ë¬¼ = new Chicken();
+		ì²™ì¶”ë™ë¬¼ = new Duck();
 		
-		// °í¾çÀÌ´Â Á¶·ù¿¡ µé¾î°¥ ¼ö ¾ø´Ù.
+		// ê³ ì–‘ì´ëŠ” ì¡°ë¥˜ì— ë“¤ì–´ê°ˆ ìˆ˜ ì—†ë‹¤.
 		// Birds cat = new Cat();
-		// ¿À¸®´Â Æ÷À¯·ù¿¡ µé¾î°¥ ¼ö ¾ø´Ù.
+		// ì˜¤ë¦¬ëŠ” í¬ìœ ë¥˜ì— ë“¤ì–´ê°ˆ ìˆ˜ ì—†ë‹¤.
 		// Mamal mal = new Duck();		
 		
 	}
