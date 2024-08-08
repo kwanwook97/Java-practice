@@ -13,8 +13,6 @@ public class WorkObj {
 			wait(); // 3. 본인은 쉰다.
 		} catch (InterruptedException e) {
 			e.printStackTrace();
-		}
-		
-	}
-	
+		}	
+	}	
 }
